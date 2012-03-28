@@ -22,14 +22,14 @@
 		C5DF27D71522BACF00024420 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		C5DF27D91522BACF00024420 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C5DF27DB1522BACF00024420 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		C5DF27DF1522BACF00024420 /* gitHubExample-Info.plist */ = {isa = PBXFileReference; path = "gitHubExample-Info.plist"; sourceTree = "<group>"; };
+		C5DF27DF1522BACF00024420 /* gitHubExample-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "gitHubExample-Info.plist"; sourceTree = "<group>"; };
 		C5DF27E11522BACF00024420 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C5DF27E31522BACF00024420 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		C5DF27E51522BACF00024420 /* gitHubExample-Prefix.pch */ = {isa = PBXFileReference; path = "gitHubExample-Prefix.pch"; sourceTree = "<group>"; };
-		C5DF27E61522BACF00024420 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		C5DF27E51522BACF00024420 /* gitHubExample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "gitHubExample-Prefix.pch"; sourceTree = "<group>"; };
+		C5DF27E61522BACF00024420 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C5DF27E71522BACF00024420 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		C5DF27EA1522BAD000024420 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		C5DF27EC1522BAD000024420 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		C5DF27EC1522BAD000024420 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		C5DF27ED1522BAD000024420 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
